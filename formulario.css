@@ -5,13 +5,13 @@
 
 #titulo{
     font-family: sans-serif;
-    color:#d0d6d5;
+    color:#062e57;
     margin-left: 7%;
 }
 
 #subtitulo{
     font-family: sans-serif;
-    color:#d0d6d5;
+    color:#062e57;
     margin-left: 10%;
 } 
 
@@ -23,7 +23,7 @@ body {
     background:#97c6e6;
     background-size: cover;
     background-repeat: no-repeat;
-    color:#d0d6d5;
+    color:#062e57;
     margin-left: 36%;
     margin-top: 8%;
     justify-content: center;
@@ -37,7 +37,7 @@ input, select, textarea, button {
 
 .campo label {
     margin-bottom: 0.2em;
-    color: #d0d6d5;
+    color: #062e57;
     display: block;
 }
 
